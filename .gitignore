@@ -1,0 +1,8 @@
+# virtual envs for libs
+/now_venv
+
+# secret shit
+.env							
+
+
+
